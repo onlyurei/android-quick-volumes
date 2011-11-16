@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Volumes</string>
+    <string name="ringer_volume">リンガーボリューム</string>
+	<string name="notification_volume">ノーティフィケーションボリューム</string>
+	<string name="system_volume">システムボリューム</string>
+	<string name="alarm_volume">アラームボリューム</string>
+	<string name="media_volume">メディアボリューム</string>
+	<string name="voice_call_volume">ボイスボリューム</string>
+	<string name="normal">ノーマル</string>
+	<string name="vibrate">バイブ</string>
+	<string name="silent">サイレント</string>
+	<string name="ringer_mode">呼出音モード</string>
+	<string name="refresh">リフレッシュ</string>
+</resources>

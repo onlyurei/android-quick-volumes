@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick Volumes</string>
+    <string name="ringer_volume">Ringer volume</string>
+	<string name="notification_volume">Notification volume</string>
+	<string name="system_volume">System volume</string>
+	<string name="alarm_volume">Alarm volume</string>
+	<string name="media_volume">Media volume</string>
+	<string name="voice_call_volume">Voice call volume</string>
+	<string name="normal">Normal</string>
+	<string name="vibrate">Vibrate</string>
+	<string name="silent">Silent</string>
+	<string name="ringer_mode">Ringer mode</string>
+	<string name="refresh">Refresh</string>
+</resources>
